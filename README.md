@@ -4,6 +4,7 @@ Nama Anggota :
 2. Monika Anggy Utami (237064516035)
 
 Dosen : Nur Hayati, S.SI., MTI.
+
 Mata Kuliah : Data Science (R.01)
 
 campus-recruitment-analysis
